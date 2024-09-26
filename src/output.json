@@ -1,0 +1,79 @@
+[ {
+  "OriginalCurrency" : "USD",
+  "Status" : null,
+  "TargetCurrency" : "EUR",
+  "Amount" : 1000.0,
+  "ConvertedAmount" : 0.0
+}, {
+  "OriginalCurrency" : "EUR",
+  "Status" : null,
+  "TargetCurrency" : "GBP",
+  "Amount" : 500.0,
+  "ConvertedAmount" : 0.0
+}, {
+  "OriginalCurrency" : "ABC",
+  "Status" : null,
+  "TargetCurrency" : "USD",
+  "Amount" : 200.0,
+  "ConvertedAmount" : 0.0
+}, {
+  "OriginalCurrency" : "USD",
+  "Status" : null,
+  "TargetCurrency" : "XYZ",
+  "Amount" : 150.0,
+  "ConvertedAmount" : 0.0
+}, {
+  "OriginalCurrency" : "GBP",
+  "Status" : null,
+  "TargetCurrency" : "INR",
+  "Amount" : 300.0,
+  "ConvertedAmount" : 0.0
+}, {
+  "OriginalCurrency" : "AUD",
+  "Status" : null,
+  "TargetCurrency" : "CAD",
+  "Amount" : 400.0,
+  "ConvertedAmount" : 0.0
+}, {
+  "OriginalCurrency" : "CAD",
+  "Status" : null,
+  "TargetCurrency" : "USD",
+  "Amount" : 145.0,
+  "ConvertedAmount" : 0.0
+}, {
+  "OriginalCurrency" : "CHF",
+  "Status" : null,
+  "TargetCurrency" : "AUD",
+  "Amount" : 500.0,
+  "ConvertedAmount" : 0.0
+}, {
+  "OriginalCurrency" : "USD",
+  "Status" : null,
+  "TargetCurrency" : "CHF",
+  "Amount" : 600.0,
+  "ConvertedAmount" : 0.0
+}, {
+  "OriginalCurrency" : "JPY",
+  "Status" : null,
+  "TargetCurrency" : "USD",
+  "Amount" : 700.0,
+  "ConvertedAmount" : 0.0
+}, {
+  "OriginalCurrency" : "BTC ",
+  "Status" : null,
+  "TargetCurrency" : "INR",
+  "Amount" : 1500.0,
+  "ConvertedAmount" : 0.0
+}, {
+  "OriginalCurrency" : "USD",
+  "Status" : null,
+  "TargetCurrency" : "123",
+  "Amount" : 2700.0,
+  "ConvertedAmount" : 0.0
+}, {
+  "OriginalCurrency" : "677",
+  "Status" : null,
+  "TargetCurrency" : "GBP",
+  "Amount" : 3500.0,
+  "ConvertedAmount" : 0.0
+} ]

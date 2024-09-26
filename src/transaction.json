@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "Amount": 1000,
+      "OriginalCurrency": "USD",
+      "TargetCurrency": "EUR"
+    },
+    {
+      "Amount": 500,
+      "OriginalCurrency": "EUR",
+      "TargetCurrency": "GBP"
+    },
+    {
+      "Amount": 200,
+      "OriginalCurrency": "ABC",
+      "TargetCurrency": "USD"
+    },
+    {
+      "Amount": 150,
+      "OriginalCurrency": "USD",
+      "TargetCurrency": "XYZ"
+    },
+    {
+      "Amount": 300,
+      "OriginalCurrency": "GBP",
+      "TargetCurrency": "INR"
+    },
+    {
+      "Amount": 400,
+      "OriginalCurrency": "AUD",
+      "TargetCurrency": "CAD"
+    },
+    {
+      "Amount": 145,
+      "OriginalCurrency": "CAD",
+      "TargetCurrency": "USD"
+    },
+    {
+      "Amount": 500,
+      "OriginalCurrency": "CHF",
+      "TargetCurrency": "AUD"
+    },
+    {
+      "Amount": 600,
+      "OriginalCurrency": "USD",
+      "TargetCurrency": "CHF"
+    },
+    {
+      "Amount": 700,
+      "OriginalCurrency": "JPY",
+      "TargetCurrency": "USD"
+    },
+    {
+      "Amount": 1500,
+      "OriginalCurrency": "BTC ",
+      "TargetCurrency": "INR"
+    },
+    {
+      "Amount": 2700,
+      "OriginalCurrency": "USD",
+      "TargetCurrency": "123"
+    },
+    {
+      "Amount": 3500,
+      "OriginalCurrency": "677",
+      "TargetCurrency": "GBP"
+    }
+  ]
+}
